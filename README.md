@@ -13,5 +13,5 @@ gcc simd.c -mfma -o examples.exe
 ```
 
 ```bash
-gcc simd.c -mfma -o examples.exe
+clang simd.c -mfma -o examples.exe
 ```
